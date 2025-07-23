@@ -9,8 +9,8 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 CSE-AIML Undergrad 
-- 🧠 Interested in Artificial Intelligence, DevOps, and Clean Backend Systems  
+- 🎓 CSE-AIML Undergrad
+- 🧠 Interested in Artificial Intelligence, DevOps, and Clean Backend Systems.  
 - 🛠️ Learning by building, breaking, and iterating  
 - 📫 Reach me at: **ayushmane3036@gmail.com**
 
