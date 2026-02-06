@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  CSE AIML Student | Building AI + Backend Projects | Open to Internships
+  CSE (AI/ML) Student • Building AI & Backend Projects • Open to Internship Opportunities
 </p>
 
 ---
@@ -69,19 +69,6 @@ AI tool that explains concepts and helps students learn faster
   <img src="https://img.shields.io/badge/View%20Project-111827?style=for-the-badge&logo=github&logoColor=38bdf8"/>
 </a>
 
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushmane247&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmane247&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushmane247&theme=tokyonight"/>
-</p>
 
 
 ---
