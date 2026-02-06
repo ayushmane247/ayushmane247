@@ -1,75 +1,118 @@
-<h1 align="center">Hi 👋, I'm Ayush Mane</h1>
-<h3 align="center">Aspiring AIML Engineer | Curious about Systems, Intelligence & Clean Tech ⚙️</h3>
+<h1 align="center">Hi 👋, I'm Ayush</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayush942066&label=Profile%20views&color=0e75b6&style=flat" alt="ayush942066" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI%2FML+Student;Building+Projects+Daily;Future+Software+Engineer;Backend+Developer&center=true&width=500&height=45">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayushmane247&label=PROFILE+VIEWS&color=38bdf8&style=for-the-badge" />
+</p>
+
+<p align="center">
+  CSE AIML Student | Building AI + Backend Projects | Open to Internships
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 💻 Tech Stack
 
-- 🎓 CSE-AIML Undergrad
-- 🧠 Interested in Artificial Intelligence, DevOps, and Clean Backend Systems.  
-- 🛠️ Learning by building, breaking, and iterating  
-- 📫 Reach me at: **ayushmane3036@gmail.com**
+### 🧠 Languages
+<p>
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=38bdf8"/>
+</p>
 
----
+<!--
+### ⚙️ AI / Data / ML
+<p>
+<img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=22d3ee"/>
+<img src="https://img.shields.io/badge/Numpy-111827?style=for-the-badge&logo=numpy&logoColor=22d3ee"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=22d3ee"/>
+<img src="https://img.shields.io/badge/Prophet-111827?style=for-the-badge&logo=meta&logoColor=22d3ee"/>
+</p>
+-->
 
-### 🛠️ Tech Stack
+### 🌐 Web / App
+<p>
+<img src="https://img.shields.io/badge/Streamlit-111827?style=for-the-badge&logo=streamlit&logoColor=fb7185"/>
+<img src="https://img.shields.io/badge/HTML-111827?style=for-the-badge&logo=html5&logoColor=fb7185"/>
+<img src="https://img.shields.io/badge/CSS-111827?style=for-the-badge&logo=css3&logoColor=fb7185"/>
+<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=fb7185"/>
+</p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+### ☁️ Tools & DevOps
+<p>
+<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=facc15"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=facc15"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions&logoColor=facc15"/>
 </p>
 
 ---
+## 🚀 Featured Projects
 
-### 📊 GitHub Stats
+### 📊 InsightHub – Multi-Domain Data Analysis Platform
+Streamlit app for data upload, analytics, visualizations & forecasting  
+<a href="https://github.com/ayushmane247/InsightHub">
+  <img src="https://img.shields.io/badge/View%20Project-111827?style=for-the-badge&logo=github&logoColor=38bdf8"/>
+</a>
+
+### 🕵️ Agentic Honeypot – AI Scam Detection System
+LLM-powered conversational honeypot to detect scammers in real time  
+<a href="https://github.com/ayushmane247/Agentic-Honeypot-">
+  <img src="https://img.shields.io/badge/View%20Project-111827?style=for-the-badge&logo=github&logoColor=38bdf8"/>
+</a>
+
+### 🤖 AI Tutor – Learning Assistant
+AI tool that explains concepts and helps students learn faster  
+<a href="https://github.com/ayushmane247/AI-Tutor">
+  <img src="https://img.shields.io/badge/View%20Project-111827?style=for-the-badge&logo=github&logoColor=38bdf8"/>
+</a>
+
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushmane247&show_icons=true&theme=github_dark" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushmane247&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmane247&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmane247&layout=compact&theme=github_dark" width="60%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushmane247&theme=tokyonight"/>
 </p>
 
+
+---
+## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ayush942066&theme=github-dark-blue" width="60%" />
+  <img src="https://raw.githubusercontent.com/ayushmane247/ayushmane247/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-### 🔗 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ayush-mane-92237132b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayush-mane-92237132b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ayushmane3036@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<!-- 
-### 🚀 Projects
-
-- [🔍 InsightHub](https://github.com/ayush942066/InsightHub) – CSV-based data analysis tool built with Streamlit  
-- [🛠️ Portfolio Website](#) – Coming soon...
--->
-
-<!-- 
-### 🏆 GitHub Trophies (optional)
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayush942066&theme=flat&column=4&margin-w=10&margin-h=10" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0f172a&height=120&section=footer"/>
 </p>
--->
 
 <p align="center">
   <i>"Building with vision, one commit at a time."</i>
 </p>
+
+
