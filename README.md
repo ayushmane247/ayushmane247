@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayush</h1>
+<h1 align="center">root@ayush:~$ whoami</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%2FML+Student;Building+Projects+Daily;Future+Software+Engineer;Backend+Developer&center=true&width=500&height=45">
